@@ -1,0 +1,3 @@
+version: "3.8"
+services:
+  # Пока пусто, но скоро тут будут настройки для PostgreSQL, backend, frontend
